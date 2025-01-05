@@ -20,6 +20,7 @@ const App = () => {
       <Sidebar />
       <Routes>
         <Route path="/" element={<OverviewPage />} />
+        <Route path="/AdminTracker" element={<OverviewPage />} />
         <Route path="/products" element={<ProductsPage />} />
         <Route path="/sales" element={<SalesPage />} />
         <Route path="/orders" element={<OrdersPage />} />
