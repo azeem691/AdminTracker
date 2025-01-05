@@ -22,3 +22,6 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Allow dist folder to be tracked for deployment
+!dist/
