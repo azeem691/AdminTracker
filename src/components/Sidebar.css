@@ -1,0 +1,9 @@
+.active {
+  background-color: #4b5563; /* Darker gray background */
+  color: white; /* Text color for active link */
+  font-weight: bold; /* Optional: Bold font for active link */
+}
+
+.active .lucide {
+  filter: brightness(1.5); /* Highlight the icon */
+}
