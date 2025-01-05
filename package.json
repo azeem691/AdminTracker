@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://azeem691.github.io/AdminTracker",
+  "homepage": "https://azeem691.github.io/AdminTracker/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
